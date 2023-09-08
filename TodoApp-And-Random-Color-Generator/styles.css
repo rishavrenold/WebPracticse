@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+  }
+  #box {
+    height: 200px;
+    width: 400px;
+    border: 2px solid black;
+    margin: auto;
+  }
+  
+  button {
+    margin: 5px auto;
+  }
+  
